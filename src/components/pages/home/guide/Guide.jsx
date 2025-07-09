@@ -17,15 +17,19 @@ const Guide = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
 
               <CardGear
+                emoji={"🎣"}
                 title={"Fishing Rods"}
                 description={"From ultralight to heavy action rods for all fishing styles."}/>
               <CardGear
+                emoji={"🌀"}
                 title={"Reels"}
                 description={"Spinning, baitcasting, and fly reels for different techniques."}/>
               <CardGear
+                emoji={"🐟"}
                 title={"Lures & Baits"}
                 description={"Artificial lures and live bait options for various fish species."}/>
               <CardGear
+                emoji={"🧰"}
                 title={"Accessories"}
                 description={"Tackle boxes, nets, pliers, and other essential tools."}/>
                 
